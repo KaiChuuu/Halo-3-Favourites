@@ -38,7 +38,7 @@ I was able to understand the layout of a html structure.
 
 * iframe (embedding a video)
 
-* form (creates form for user input), input (same as button)
+* form (creates form for user input), input type="text"(same as button)
 
 ## Why talk about Halo 3
 Well this is a personal project. 
