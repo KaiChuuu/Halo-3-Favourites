@@ -42,4 +42,4 @@ I was able to understand the layout of a html structure.
 
 ## Why talk about Halo 3
 Well this is a personal project. 
-I wanted to have fun still and work on a website that I could enjoy building.
+I wanted to work on a website that was fun and enjoyable for me to build.
