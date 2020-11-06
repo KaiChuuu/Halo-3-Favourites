@@ -14,31 +14,31 @@ I was able to understand the layout of a html structure.
 
 ## Overview of tools used from html
 
-*title
+* title
 
-*img
+* img
 
-*table (td (row), td (column))
+* table (td (row), td (column))
 
-*h1-h4 (text size)
+* h1-h4 (text size)
 
-*p (paragraph)
+* p (paragraph)
 
-*b (bold), i (italics), em (emphasis)
+* b (bold), i (italics), em (emphasis)
 
-*br (line break)
+* br (line break)
 
-*hr (create horizontal line)
+* hr (create horizontal line)
 
-*ul (unordered list), li (list item)
+* ul (unordered list), li (list item)
 
-*a href="#" (destination urls), button
+* a href="#" (destination urls), button
 
-*ol (ordered list)
+* ol (ordered list)
 
-*iframe (embedding a video)
+* iframe (embedding a video)
 
-*form (creates form for user input), input (same as button)
+* form (creates form for user input), input (same as button)
 
 ## Why talk about Halo 3
 Well this is a personal project. 
