@@ -10,7 +10,7 @@ https://halo-3-favourites.firebaseapp.com/
 
 I created this website to learn and actually experience using html.
 
-I was able to understand the layout of a html structure. 
+I was able to understand the layout and tools used in html. 
 
 ## Overview of tools used from html
 
