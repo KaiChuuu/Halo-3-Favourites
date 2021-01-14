@@ -47,3 +47,8 @@ I wanted to work on a website that was fun and enjoyable for me to build.
 ## Remake of Halo 3 Favourites website using CSS
 
 https://github.com/RedDogClifford/Halo-3-Favourites-Remake
+
+
+## Extra 
+
+* Learned how to create a firebase database.
